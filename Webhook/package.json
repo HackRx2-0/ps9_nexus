@@ -1,0 +1,21 @@
+{
+	"name": "webhook",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node ./app.js",
+		"run": "node ./app.jss"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"actions-on-google": "^2.14.0",
+		"axios": "^0.18.1",
+		"cuid": "^2.1.8",
+		"dialogflow-fulfillment": "^0.6.1",
+		"express": "^4.17.1",
+		"lodash": "^4.17.21",
+		"nodemon": "^2.0.12"
+	}
+}
